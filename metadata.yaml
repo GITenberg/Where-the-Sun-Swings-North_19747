@@ -1,0 +1,31 @@
+_repo: Where-the-Sun-Swings-North_19747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willoughby, Barrett
+    aliases:
+    - Willoughby, Florence Barrett
+    - Barrette, Florence M.
+    - Barrett, Florence
+    deathdate: 1959
+    gutenberg_agent_id: '8859'
+    url: http://www.gutenberg.org/2009/agents/8859
+    wikipedia: http://en.wikipedia.org/wiki/Barrett_Willoughby
+description: ''
+gutenberg_issued: '2006-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tlingit Indians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Alaska -- Fiction'
+title: Where the Sun Swings North
+url: http://www.gutenberg.org/ebooks/19747
